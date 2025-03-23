@@ -1,10 +1,11 @@
 streamlit
 pandas
 numpy
-matplotlib
-shap
+scikit-learn
 xgboost
-pickle
+shap
+matplotlib
 seaborn
-sklearn
-
+optuna
+joblib
+pickle-mixin
