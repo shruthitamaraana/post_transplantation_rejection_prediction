@@ -89,7 +89,6 @@ def main():
     st.title("⚕️ Post Organ Transplant Rejection Prediction")
     st.markdown("""
     Under 2C-Second Chance
-    
     This application predicts the likelihood of organ rejection post-transplantation based on
     donor and recipient characteristics. It uses an AI model trained on transplantation data
     to provide insights for medical professionals.
