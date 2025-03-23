@@ -91,7 +91,8 @@ def main():
     This application predicts the likelihood of organ rejection post-transplantation based on
     donor and recipient characteristics. It uses an AI model trained on transplantation data
     to provide insights for medical professionals.
-    - Under 2C-Second Chance
+    
+    (Under 2C-Second Chance)
     
                  🧑‍⚕️ Who Can Use This?
 👨‍⚕️ **Transplant Surgeons** – To assess rejection risk pre- and post-surgery  
